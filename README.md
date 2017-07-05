@@ -14,3 +14,8 @@ Like a compass that points to your destination, rather than north.
 A simple RSS reader website that adds the ability to comment on posts.
 Like HackerNews, but curated to only blogs you've explicitly decided to
 follow.
+
+## RSS as Podcasts
+
+A way to follow blogs and receive them as audiobooks. RSS + Text to
+Speech.
